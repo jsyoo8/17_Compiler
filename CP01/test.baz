@@ -1,0 +1,6 @@
+x = true
+if x
+show true
+endif
+show x
+end
